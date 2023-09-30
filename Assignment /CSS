@@ -1,1 +1,34 @@
+<style>
+      
+    *{box-sizing: border-box;  
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      width: 100%;
+    }
+    
+    h1 { margin-bottom: 30px;
+    text-align: center;}
+    
+  p{  background-color: grey;
+        width: 300px; 
+        border: 1px solid black;
+        padding: 30px;
+        margin: 0;
+         }
+   div>div{ margin: 10px;}
+         .subheading{ float: left;}
 
+.subheading h3{width:100px;
+      padding: 10px;
+      border: 1px solid black;
+      margin: 0;
+      float: right;
+    } 
+    
+    #h1{ color:white;
+    background-color: brown; }
+    #h2{ color:purple;
+    background-color:pink; }
+    #h3{ color:white;
+    background-color:blue; }
+    
+    </style>
