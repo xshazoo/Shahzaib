@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {text-align: center;}
+.box{
+    border: 2px solid black;
+    width: 30%;
+}
+
+.heading-box{
+    /* display: inline-block; */
+    border: 2px solid black;
+    float: right;}
+
+/*subheading properties */
+#l1{ background-color: blue;
+color: whitesmoke;
+padding: 5px;}
+#l2{ background-color: pink;
+color: purple;
+padding: 5px;}
+#l3{background-color:beige ;
+color: brown;
+padding: 5px;}
+
+.heading-box h2{
+    text-align: end;
+    margin: 0;
+}
+
+.text p{
+    margin: 40px 8px 8px 8px;
+    background-color: grey;
+    padding: 10px;
+}
