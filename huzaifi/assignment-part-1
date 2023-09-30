@@ -1,1 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1>Our Menu</h1> 
+
+    <div class="box">
+        <div >
+            <section class="heading-box">
+                <h2 id="l1">Chicken</h2>
+            </section>
+        </div>
+
+        <div class="text">
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptatem aliquam laudantium reiciendis
+                dignissimos sint ullam necessitatibus consequatur laborum placeat.
+            </p>
+        </div>
+    </div>
+
+        <div class="box">
+            <div>
+             <section class="heading-box">
+                <h2 id="l2"> Beef</h2>
+              </section>
+            </div>
+            <div class="text">
+           <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptatem aliquam laudantium reiciendis
+              dignissimos sint ullam necessitatibus consequatur laborum placeat.
+            </p>  
+           </div>
+        </div>
+         
+        
+        <div class="box">
+            <div>
+                <section class="heading-box">
+                   <h2 id="l3"> Sushi</h2>
+                </section>
+            </div>
+            <div class="text">
+              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptatem aliquam laudantium reiciendis
+                 dignissimos sint ullam necessitatibus consequatur laborum placeat.
+               </p>  
+            </div>   
+        </div>
+        
+    
+</body>
+
+</html>
